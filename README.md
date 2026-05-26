@@ -28,8 +28,9 @@ La aplicación permite seleccionar un problema de red desde una lista desplegabl
 - CSS
 - JavaScript
 
-Estructura del proyecto
+```
 
+## Arquitectura por capas
 mi-proyecto/
 │
 ├── index.html
@@ -42,9 +43,6 @@ mi-proyecto/
 ├── assets/
 │   └── image.jpg
 └── docs/
-```
-
-## Arquitectura por capas
 
 El proyecto está organizado en tres capas, de acuerdo con la guía del taller:
 
