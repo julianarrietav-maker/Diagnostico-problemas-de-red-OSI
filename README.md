@@ -28,7 +28,7 @@ La aplicación permite seleccionar un problema de red desde una lista desplegabl
 - CSS
 - JavaScript
 
-## Estructura del proyecto
+Estructura del proyecto
 
 mi-proyecto/
 │
